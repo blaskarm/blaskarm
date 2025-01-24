@@ -47,7 +47,7 @@ A C# and MySQL-powered application for managing library inventory and user lendi
 ---
 
 ## 📫 Get in Touch  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-lindhult-63484017b/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:emillindhult@gmail.com)  
 
 Feel free to explore my repositories and reach out with collaboration ideas or questions. Let’s build something amazing together! 🚀  
