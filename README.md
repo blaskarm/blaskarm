@@ -6,8 +6,8 @@ Hi there! 👋 I'm Emil, an aspiring software developer focusing on the .NET pla
 
 ## 🛠️ Tech Stack  
 - **Languages:** C#, Python, HTML, CSS, JavaScript, SQL  
-- **Frameworks:** .NET, ASP.NET  
-- **Tools:** Visual Studio, VS Code, MySQL, SQL Server  
+- **Frameworks:** .NET, ASP.NET, EntityFramework Core
+- **Tools:** Visual Studio, VS Code, MySQL, SQL Server, Postman
 
 ---
 
@@ -18,9 +18,9 @@ Hi there! 👋 I'm Emil, an aspiring software developer focusing on the .NET pla
 ---
 
 ## 📚 Featured Projects  
-- **[Smart Home Controller](https://github.com/blaskarm/iot-smart-home.git):** IoT system for lighting and temperature monitoring.
 - **[Library Management System](https://github.com/blaskarm/Library.git):** C# WPF and MySQL-powered library app.
 - **[Budget Management System](https://github.com/blaskarm/Budget.git):** WPF C# and JSON.
+- **[Ai Recipe Generator](https://github.com/blaskarm/AIronChef.git):** REST API, SQL SERVER, Clean Architecture
 
 ---
 
