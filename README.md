@@ -26,7 +26,7 @@ Hi there! 👋 I'm Emil, an aspiring software developer focusing on the .NET pla
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-lindhult-63484017b/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:emillindhult@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:emillindhult@outlook.com)  
 
 ---
 Thanks for visiting! 🚀
