@@ -13,7 +13,7 @@ I’m **Emil Lindhult**, a passionate software developer specializing in the **.
 
 | Languages                   | Frameworks & Libraries            | Tools & Databases          |
 |-----------------------------|-----------------------------------|----------------------------|
-| C# · Python · JavaScript    | .NET · ASP.NET Core · Entity-EF   | Visual Studio · VS Code    |
+| C# · Python · JavaScript    | .NET · ASP.NET Core · EF-Core     | Visual Studio · VS Code    |
 | HTML · CSS · SQL            | Clean Architecture · REST APIs    | SQL Server · MySQL · Postman |
 
 ---
